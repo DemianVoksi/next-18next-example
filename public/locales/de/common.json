@@ -1,7 +1,7 @@
 {
-  "h1": "Ein einfaches Beispiel",
-  "change-locale": "Sprache wechseln zu \"{{changeTo}}\"",
-  "to-second-page": "Zur zweiten Seite",
+  "h1": "ne znam šta se događa",
+  "change-locale": "ne znam šta se događa",
+  "to-second-page": "ne znam šta se događa",
   "error-with-status": "Auf dem Server ist ein Fehler ({{statusCode}}) aufgetreten",
   "error-without-status": "Auf dem Server ist ein Fehler aufgetreten",
   "title": "Hauptseite | next-i18next",
