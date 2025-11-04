@@ -1,10 +1,10 @@
 {
   "h1": "A {{statusCode}} error occurred on serverrrr",
-  "change-locale": "ne znam šta se događa",
-  "to-second-page": "A {{statusCode}} error occurred on serverrrr",
-  "error-with-status": "A {{statusCode}} error occurred on serverrrr",
-  "error-without-status": "Auf dem Server ist ein Fehler aufgetreten",
-  "title": "Hauptseite | next-i18next",
+  "change-locale": "Back to hsss",
+  "to-second-page": "Back to hsss",
+  "error-with-status": "Back to hsss",
+  "error-without-status": "Back to hsss",
+  "title": "Second page | next-i18nex",
   "blog": {
     "appDir": {
       "question": "Verwendest du das neue Next.js 13 mit app directory?",
@@ -22,5 +22,5 @@
       "link": "https://locize.com/blog/next-i18n-statisch/"
     }
   },
-  "back-to-home": "Back to home home"
+  "back-to-home": "Back to hsss"
 }
