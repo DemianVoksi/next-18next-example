@@ -1,5 +1,7 @@
 {
-  "h1": "Eine zweite Seite, um das Routing zu demonstrieren",
-  "back-to-home": "Zurück zur Hauptseite",
-  "title": "Zweite Seite | next-i18next"
+  "h1": "A {{statusCode}} error occurred on serverrrr",
+  "back-to-home": "Back to home home",
+  "title": "Zweite Seite | next-i18next",
+  "to-second-page": "A {{statusCode}} error occurred on serverrrr",
+  "error-with-status": "A {{statusCode}} error occurred on serverrrr"
 }

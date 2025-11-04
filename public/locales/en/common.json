@@ -1,8 +1,8 @@
 {
-  "h1": "ne znam šta se događa",
+  "h1": "A {{statusCode}} error occurred on serverrrr",
   "change-locale": "ne znam šta se događa",
-  "to-second-page": "ne znam šta se događa",
-  "error-with-status": "A {{statusCode}} error occurred on server",
+  "to-second-page": "A {{statusCode}} error occurred on serverrrr",
+  "error-with-status": "A {{statusCode}} error occurred on serverrrr",
   "error-without-status": "An error occurred on the server",
   "title": "Home | next-i18next",
   "blog": {
@@ -21,5 +21,6 @@
       "answer": "Then you may have a look at <1>this blog post</1>.",
       "link": "https://locize.com/blog/next-i18n-static/"
     }
-  }
+  },
+  "back-to-home": "Back to home home"
 }

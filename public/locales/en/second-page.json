@@ -1,5 +1,7 @@
 {
-  "h1": "A second page, to demonstrate routing",
-  "back-to-home": "Back to home",
-  "title": "Second page | next-i18next"
+  "h1": "A {{statusCode}} error occurred on serverrrr",
+  "back-to-home": "Back to home home",
+  "title": "Second page | next-i18next",
+  "to-second-page": "A {{statusCode}} error occurred on serverrrr",
+  "error-with-status": "A {{statusCode}} error occurred on serverrrr"
 }
