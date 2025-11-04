@@ -1,7 +1,7 @@
 {
   "h1": "h1 en",
   "change-locale": "Back to hsss",
-  "to-second-page": "Back to hsss",
+  "to-second-page": "to second page de 2",
   "error-with-status": "Back to hsss",
   "error-without-status": "error without status de",
   "title": "Second page | next-i18nex",
@@ -22,5 +22,5 @@
       "link": "https://locize.com/blog/next-i18n-statisch/"
     }
   },
-  "back-to-home": "back to home drugi en"
+  "back-to-home": "to second page de 2"
 }
