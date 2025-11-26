@@ -1,9 +1,9 @@
 {
-  "h1": "h1 en",
+  "h1": "A {{statusCode}} error occurred on serve",
   "change-locale": "Back to hsss",
   "to-second-page": "to second page de 2",
   "error-with-status": "Back to hsss",
-  "error-without-status": "error without status de",
+  "error-without-status": "error without status de ",
   "title": "Second page | next-i18nex",
   "blog": {
     "appDir": {
